@@ -4,8 +4,11 @@ A method for creating a "help desk on rails" utilizing Okta Workflows as a web s
 # Documentation/Resources
 
 Okta Workflows documentation - https://help.okta.com/wf/en-us/content/topics/workflows/workflows-main.htm
+
 Okta Workflows Connector Builder - https://help.okta.com/wf/en-us/content/topics/workflows/connector-builder/connector-builder.htm
+
 Slack API documentation - https://api.slack.com/docs
+
 Slack Block Kit Builder (Sign in Required) - https://slack.com/workspace-signin?redir=%2Fapi%2F%2Ftools%2Fblock-kit-builder
 
 # JNUC 2023 Presentation 
