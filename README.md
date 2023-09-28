@@ -1,5 +1,7 @@
 # Jazz-Shrimp
-A method for creating a "help desk on rails" utilizing Okta Workflows as a web server. Based on my talk at JNUC 2023: "Jazz Shrimp: Using Slack Workflows to Automate Jamf Device Management"
+A method for creating a "help desk on rails" utilizing Okta Workflows as a web server. Based on my talk at JNUC 2023: "Jazz Shrimp: Using Slack Workflows to Automate Jamf Device Management".
+
+While this was created in Okta Workflows, this could be built using the same techniques in any IPaaS platform that allows you to build custom connectors or use open APIs, or with traditional code.
 
 # Documentation/Resources
 
